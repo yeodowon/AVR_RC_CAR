@@ -2,7 +2,7 @@
 
 
 동작 영상 (자율주행 모드)
-![image](https://user-images.githubusercontent.com/113006249/204149133-ebca1e18-c727-463a-abf0-e3798f7a4f15.png)
+https://user-images.githubusercontent.com/113006249/204149744-bea0357d-2c24-43dd-bec7-3d03957f8bf1.mp4
 
 
 
